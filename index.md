@@ -5,9 +5,9 @@
 ### Research Projects 
 
 [Impact of eviction over shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
-Using a diff-in-diff analysis to assess the impact of evictions over gund violence. <br/>
-Skill used: QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis 
-<img src="images/evictions.jpg?raw=true"/>
+Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
+Skill used: diff-indiff, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis 
+<img src="images/evictions.JPG?raw=true"/>
 
 --
 ### Category Name 2
