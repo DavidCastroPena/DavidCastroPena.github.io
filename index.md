@@ -65,7 +65,7 @@ Skill used: Macroecomic analysis, developing accounting
 Connecting research evidence to identify income-generating investments in Colombia's main conflict regions. <br/>
 Skill used: Literture review analysis, secondary data collection, qualitative analysis
 
-<img src="images/_116409159_tweet6.png?raw=true"/>
+<img src="images/coronation-of-the-autocrat-of-protection-june-16-1896-dalrymple-cbf83d-1600.jpg?raw=true"/>
 
 [Credibility restoration, common enemies, and player elimination: a toolkit for long-term autocrats](/pdf/A59004718 (3).pdf)<br/>
 Contrasting Deb's research on autocratic behavior with neuroscience findings. <br/>
@@ -74,7 +74,7 @@ Skill used: Literture review analysis, secondary data collection, qualitative an
 <img src="images/gettyimages.jpg?raw=true"/>
 
 
-<img src="images/coronation-of-the-autocrat-of-protection-june-16-1896-dalrymple-cbf83d-1600.jpg?raw=true"/>
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
