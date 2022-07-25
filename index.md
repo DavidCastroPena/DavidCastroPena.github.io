@@ -2,6 +2,7 @@
 
 ---
 ### Spatial Analysis and Impact Evaluation
+
 [Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
 Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
 Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis
