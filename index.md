@@ -10,6 +10,7 @@ Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regress
 
 <img src="images/evictions.JPG?raw=true"/>
 
+---
 
 [An electrification Plan to Increse Female Employment in South Africa SDGs 7 and 8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
 Using evidence and spatial data to create an electrification plan for incresing employment in South Africa. <br/>
@@ -32,7 +33,7 @@ Skill used: Diff-in-diff regression, STATA, regression, impact evaluation, polic
 
 <img src="images/Graph_regression_coeff.png?raw=true"/>
 
-
+---
 [Private Innovation and risk: An Empirical Analysis of Companies behavior in Poland](/pdf/Castro_Pena_IAP.pdf)<br/>
 Analizing the determinants of R&D investment in Poland in 2014. <br/>
 Skill used STATA, regression, impact evaluation, policy analysis, robustness analysis 
