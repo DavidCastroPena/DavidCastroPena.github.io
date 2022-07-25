@@ -10,17 +10,16 @@ Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regress
 
 <img src="images/evictions.JPG?raw=true"/>
 
-
 [An electrification Plan to Increse Female Employment in South Africa SDGs #7 and #8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
 Using evidence and spatial data to create an electrification plan for incresing employment in South Africa. <br/>
 Skill used: QGIS, spatial interpolation, STATA, financial analysis, multicriteria optimization 
 
 <img src="images/elect_invest.JPG?raw=true"/>
 
-
 [Random Forest and Satellite Imagery Classification of Roofs in Bogota](/pdf/GPEC444_FinalPaper_CastroDavid.pdf)<br/>
 Assessing economic welfare using machine learning image classification for two boroughs in Bogota-COL. <br/>
 Skill used: QGIS, Google Earth Engine, STATA, poverty analysis, NDVI index, supervised learning  
+
 <img src="images/bosa3.JPG?raw=true"/>
 
 ---
