@@ -10,6 +10,14 @@ Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regress
 
 <img src="images/evictions.JPG?raw=true"/>
 
+
+[An electrification Plan to Increse Female Employment in South Africa SDGs #7 and #8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
+Using evidence and spatial data to create an electrification plan for incresing employment in South Africa. <br/>
+Skill used: QGIS, spatial interpolation, STATA, financial analysis, multicriteria optimization 
+
+<img src="images/elect_invest.JPG?raw=true"/>
+
+
 [An electrification Plan to Increse Female Employment in South Africa SDGs 7 and 8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
 Using evidence and spatial data to create an electrification plan for incresing employment in South Africa. <br/>
 Skill used: QGIS, spatial interpolation, STATA, financial analysis, multicriteria optimization 
