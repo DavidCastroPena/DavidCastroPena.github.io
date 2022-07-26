@@ -46,7 +46,7 @@ Skill used: Literture review analysis, secondary data collection, qualitative an
 
 [Credibility restoration, common enemies, and player elimination: a toolkit for long-term autocrats](/pdf/A59004718 (3).pdf)<br/>
 Contrasting Deb's research on autocratic behavior with neuroscience findings. <br/>
-Skill used: Literture review analysis, secondary data collection, qualitative analysis
+@@ -74,7 +74,7 @@ Skill used: Literture review analysis, secondary data collection, qualitative an
 <img src="images/gettyimages.jpg?raw=true"/>
 
 
@@ -55,4 +55,3 @@ Skill used: Literture review analysis, secondary data collection, qualitative an
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
-0 comments on commit d7eb9bc
