@@ -1,6 +1,5 @@
 ## Portfolio
 
-
 ---
 ### Spatial Analysis and Impact Evaluation
 
@@ -57,6 +56,7 @@ Analyzing the determinants of China's radical increment of TPF and extracting po
 Skill used: Macroecomic analysis, developing accounting   
 
 <img src="images/maxresdefault.jpg?raw=true"/>
+
 ---
 ### The political economy of authoritarian regimes
 
@@ -71,8 +71,6 @@ Contrasting Deb's research on autocratic behavior with neuroscience findings. <b
 Skill used: Literture review analysis, secondary data collection, qualitative analysis
 
 <img src="images/gettyimages.jpg?raw=true"/>
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
