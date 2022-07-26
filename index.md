@@ -20,21 +20,21 @@ Skill used: Diff-in-diff regression, STATA, regression, impact evaluation, polic
 [Private Innovation and risk: An Empirical Analysis of Companies behavior in Poland](/pdf/Castro_Pena_IAP.pdf)<br/>
 Analizing the determinants of R&D investment in Poland in 2014. <br/>
 Skill used STATA, regression, impact evaluation, policy analysis, robustness analysis 
-<img src="images/schumpeter-theory-innovation.jpg?raw=true"/>
+<img src="images/Imagee.JPG"/>
 ---
 ### Policy Analysis 
-[Corruption and Participatory Budgets (BuB: the Phillipines'case](/pdf/Corruption_ BUB_ Final_Paper.pdf)<br/>
+[Corruption and Participatory Budgets (BuB: the Phillipines'case)](/pdf/Corruption_ BUB_ Final_Paper.pdf)<br/>
 Analyzing how institutions design and procedures create opportuntities for corruption. <br/>
 Skill used: Literture review analysis, secondary data collection, qualitative analysis  
-<img src="images/Barangay+Bottom-up-Budgeting.jpg?raw=true"/>
+
 [The Colombian Bingo: the importance of trade promotion and infrastructure policies](/pdf/Final_Macro_A59004718.pdf)<br/>
 Connecting research evidence to identify income-generating investments in Colombia's main conflict regions. <br/>
 Skill used: Macroecomic analysis, developing accounting   
 <img src="images/macro.JPG?raw=true"/>
 [Can Colombia Learn from China's Rural transformation?](/pdf/Chinese Economy Final Paper (1).pdf)<br/>
 Analyzing the determinants of China's radical increment of TPF and extracting potential lessons for Colombia. <br/>
-Skill used: Macroecomic analysis, developing accounting   
-<img src="images/maxresdefault.jpg?raw=true"/>
+Skill used: Macroeconomic analysis, developing accounting   
+
 ---
 ### The political economy of authoritarian regimes
 [On Informational Autocrats: analyzing President Trump's Twitter strategies](/pdf/Final_Macro_A59004718.pdf)<br/>
