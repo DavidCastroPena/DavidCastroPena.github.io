@@ -1,74 +1,82 @@
 ## Portfolio
 
 ---
-### Spatial Analysis and Impact Evaluation
+
+### patial Analysis and Impact Evaluation
+
 
 [Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
 Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
 Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis
 <img src="images/evictions.JPG?raw=true"/>
 
-[Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
-Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
-Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis
-<img src="images/evictions.JPG?raw=true"/>
 
-[An electrification Plan to Increse Female Employment in South Africa SDGs #7 and #8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
-Using evidence and spatial data to create an electrification plan for incresing employment in South Africa. <br/>
-Skill used: QGIS, spatial interpolation, STATA, financial analysis, multicriteria optimization 
-<img src="images/elect_invest.JPG?raw=true"/>
+[Taxi Data Analysis in New York City](https://xinyimsumyee.github.io/tanalyxi/)<br/>
+Exploratory analysis and predictive model for taxi demand and supply in Manhattan, New York City.<br/>
+Skills used: Python, Data visualizaiton (Dash, Panel, Foilum), Clustering analysis and Random forest ML model by Scikit-learn, GitHub Pages 
+<img src="images/taxi.jpg?raw=true"/>
 
-[Random Forest and Satellite Imagery Classification of Roofs in Bogota](/pdf/GPEC444_FinalPaper_CastroDavid.pdf)<br/>
-Assessing economic welfare using machine learning image classification for two boroughs in Bogota-COL. <br/>
-Skill used: QGIS, Google Earth Engine, STATA, poverty analysis, NDVI index, supervised learning  
-<img src="images/bosa3.JPG?raw=true"/>
+
+[Weapon Violation Prediction in Chicago](/MyProject/XiaoranWang_RiskPrediction)<br/>
+Geospatial risk prediction for the case of weapon violaiton in Chicago. Discussing the reporting and selection bias, as well as fairness and recidivism.<br/> 
+Skills used: R, Possion regression model
+<img src="images/wv.jpg?raw=true"/>
 
 ---
 
 
-### Applied Econometrics
+### Web Application and Data Visualization 
 
-[Measuring the Impact of 1978's SOE Privatization in Nanjing, China ](/pdf/A59004718.pdf)<br/>
-Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
-Skill used: Diff-in-diff regression, STATA, regression, impact evaluation, policy analysis
-<img src="images/Graph_regression_coeff.png?raw=true"/>
+[Philly Grocery Locations Dashboard](/MyProject/finalproject-611/index.html)<br/>
+Distribution and accessibility of grocery locations in Philadelphia.<br/>
+Skills used: JavaScript, HTML, CSS, Mapbox GL, Turf
+<img src="images/finalprojectImg.gif?raw=true"/>
 
-[Private Innovation and risk: An Empirical Analysis of Companies behavior in Poland](/pdf/Castro_Pena_IAP.pdf)<br/>
-Analizing the determinants of R&D investment in Poland in 2014. <br/>
-Skill used STATA, regression, impact evaluation, policy analysis, robustness analysis 
-<img src="images/schumpeter-theory-innovation.jpg?raw=true"/>
 
----
-### Policy Analysis 
 
-[Corruption and Participatory Budgets (BuB: the Phillipines'case](/pdf/Corruption_ BUB_ Final_Paper.pdf)<br/>
-Analyzing how institutions design and procedures create opportuntities for corruption. <br/>
-Skill used: Literture review analysis, secondary data collection, qualitative analysis  
-<img src="images/Barangay+Bottom-up-Budgeting.jpg?raw=true"/>
-
-[The Colombian Bingo: the importance of trade promotion and infrastructure policies](/pdf/Final_Macro_A59004718.pdf)<br/>
-Connecting research evidence to identify income-generating investments in Colombia's main conflict regions. <br/>
-Skill used: Macroecomic analysis, developing accounting   
-<img src="images/macro.JPG?raw=true"/>
-
-[Can Colombia Learn from China's Rural transformation?](/pdf/Chinese Economy Final Paper (1).pdf)<br/>
-Analyzing the determinants of China's radical increment of TPF and extracting potential lessons for Colombia. <br/>
-Skill used: Macroecomic analysis, developing accounting   
-<img src="images/maxresdefault.jpg?raw=true"/>
+**Visualize Philadelphia Crime Incidents**<br/> 
+What time of day Philly has the heightest crime rate?<br/> 
+Skills used: Python <br/>
+<img src="/MyProject/philly_crime.gif?raw=true"/>
 
 ---
-### The political economy of authoritarian regimes
 
-[On Informational Autocrats: analyzing President Trump's Twitter strategies](/pdf/Final_Macro_A59004718.pdf)<br/>
-Connecting research evidence to identify income-generating investments in Colombia's main conflict regions. <br/>
-Skill used: Literture review analysis, secondary data collection, qualitative analysis
-<img src="images/coronation-of-the-autocrat-of-protection-june-16-1896-dalrymple-cbf83d-1600.jpg?raw=true"/>
 
-[Credibility restoration, common enemies, and player elimination: a toolkit for long-term autocrats](/pdf/A59004718 (3).pdf)<br/>
-Contrasting Deb's research on autocratic behavior with neuroscience findings. <br/>
-Skill used: Literture review analysis, secondary data collection, qualitative analysis
-<img src="images/gettyimages.jpg?raw=true"/>
+### GIS and Spatial Analysis
+
+
+[Locating Affordable Grocery Business in Philadelphia](/MyProject/Wang,Xiaoran11.pdf)<br/>
+Skills used: ArcMap, Python, Adobe Illustrator<br/>
+<img src="images/capstone.jpg?raw=true"/>
+
+
+
+[Lancaster County Urban Growths](/MyProject/LancasterCountyUrbanGrowthProject.pdf)
+<img src="images/urbandevelop.jpg?raw=true"/>
+
+
+[ArcMap Script Tool Development](/MyProject/ArcMapToolSummarize.pdf)<br/>
+[ArcGIS Pro Stylization Tool Development](/MyProject/UsersManual.pdf)<br/>
+Skills used: Python, C#, ArcGIS Pro SDK, ArcMap
+
+
+[Ohio Population Movements](/MyProject/Ohio_Population_Movement.pdf)<br/>
+Skills used: Google Earth Engine, JavaScript
+<img src="images/gee.jpg?raw=true"/>
+
+
+**Agent-based Spatial Pattern Modeling for Random motion and Biased Random Motion** <br/>
+The program loads the OSU buildings and pavement GIS data from shapefiles and create NetLogo patches correspondingly. The model picks up a random building as a target for student movement and then generates up to 200 students at buildings (green patches). Student motion can be either random or biased. When the motion is set to be random, a student moves ahead if the patch ahead of him is feasible (the patch exists in the NetLogo world and corresponds to building or pavement), or makes a random left turn if not. When the motion is set to be biased, a student faces towards the target building after every successful move.
+<img src="images/netlogo.gif?raw=true"/>
+
+---
+
+### Photo Work
+[8gL Clothing Lookbook](https://www.instagram.com/8gl.co/)
+<img src="images/lookbook.jpg?raw=true"/>
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
