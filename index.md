@@ -5,7 +5,7 @@
 
 [Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
 Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
-Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysi
+Skill used: Diff-in-diff regression, QGIS, spatial interpolation, STATA, regression, impact evaluation, policy analysis
 <img src="images/evictions.JPG?raw=true"/>
 
 [An electrification Plan to Increse Female Employment in South Africa SDGs #7 and #8](/pdf/Final project_Spatial_Analysis (3).pdf)<br/>
@@ -19,6 +19,8 @@ Skill used: QGIS, Google Earth Engine, STATA, poverty analysis, NDVI index, supe
 <img src="images/bosa3.JPG?raw=true"/>
 
 ---
+
+
 ### Applied Econometrics
 
 [Measuring the Impact of 1978's SOE Privatization in Nanjing, China ](/pdf/A59004718.pdf)<br/>
