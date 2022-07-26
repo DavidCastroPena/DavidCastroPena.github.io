@@ -2,7 +2,7 @@
 
 ---
 
-### patial Analysis and Impact Evaluation
+### Spatial Analysis and Impact Evaluation
 
 
 [Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
