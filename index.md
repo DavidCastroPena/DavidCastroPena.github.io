@@ -1,5 +1,5 @@
 ### ML and NLP
-[Detecting gender/age bias in healthcare using medical notes](/pdf/CS_224C__Final_Paper)<br/>
+[Detecting gender/age bias in healthcare using medical notes](/pdf/CS_224C__Final_Paper.pdf)<br/>
 Combining NLP analysis and Fuzzy Regression Discontinuity to discern whether medical outcomes/attention differs from gender, race, and age
 Skill used: PCC, Jaccard, and Chi-Squared; Principal Component Analysis; Logistic Regression; Latent Dirichlet Allocation; K-Means Clustering; and Fuzzy Regression
 Discontinuity.<br/>
