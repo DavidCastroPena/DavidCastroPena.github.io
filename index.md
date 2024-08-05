@@ -3,7 +3,7 @@
 Combining NLP analysis and Fuzzy Regression Discontinuity to discern whether medical outcomes/attention differs from gender, race, and age
 Skill used: PCC, Jaccard, and Chi-Squared; Principal Component Analysis; Logistic Regression; Latent Dirichlet Allocation; K-Means Clustering; and Fuzzy Regression
 Discontinuity. <br/>
-<img src="images/cs224project.PNG?raw=true"/>
+<img src="images/cs224project.png?raw=true"/>
 ### Spatial Analysis and Impact Evaluation
 [Impact of Eviction over Shootings in NYC](/pdf/D.CASTRO - Capstone_paper_final.pdf)<br/>
 Estimating the impact of evictions over shootings during the pandemic in NYC. <br/>
